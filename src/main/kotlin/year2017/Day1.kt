@@ -1,4 +1,4 @@
-package year2017.day1
+package year2017
 
 class Day1 {
     fun doIt(input: String): Int {

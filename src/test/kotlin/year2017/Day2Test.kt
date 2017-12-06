@@ -1,4 +1,4 @@
-package year2017.day1
+package year2017
 
 import org.assertj.core.api.Assertions.assertThat
 import org.jetbrains.spek.api.Spek
